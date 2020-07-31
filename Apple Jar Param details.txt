@@ -1,0 +1,36 @@
+Input Params:
+{
+"fileName":"",
+"sessionID":"",
+"utterance":"",
+"callDateTime":"",
+"sourceFilePath":"",
+"destinationFilePath":"",
+"operation":"search",
+"formate":"",
+}
+
+
+Output Params:
+{
+"returnCode":"",
+"errorMessage":"",
+"fileName",""
+}
+
+{
+"returnCode":"",
+"errorMessage":"",
+"result":[
+{
+"fileName":"",
+"createdTime":"",
+"utterance",""
+},
+{
+"fileName":"",
+"createdTime":"",
+"utterance",""
+}
+]
+}
